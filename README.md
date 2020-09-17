@@ -1,4 +1,4 @@
-<img src="Screenshot.jpg" width="300px">
+<img src="Screenshot.jpg" width="400px">
 
 # Photo-to-ASCII-art-in-Python
 Turn any image to ASCII character art in Python
