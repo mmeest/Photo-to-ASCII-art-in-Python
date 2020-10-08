@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=130&section=header&text=Photo%ascii&fontSize=30&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=130&section=header&text=Photo%20to%20ASCII&fontSize=30&fontAlign=80)
 <img src="Screenshot.jpg" width="400px">
 
 # Photo-to-ASCII-art-in-Python
